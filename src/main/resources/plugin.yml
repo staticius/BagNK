@@ -1,0 +1,5 @@
+name: BagNK
+main: dev.astatic.Bag
+version: 0.1
+author: Staticius
+api: ["2.0.0"]
